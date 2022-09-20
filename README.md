@@ -1,4 +1,4 @@
-# Android Project 2 - *Name of App Here*
+# Android Project 2 - *Wish List*
 
 Submitted by: **Your Name Here**
 
